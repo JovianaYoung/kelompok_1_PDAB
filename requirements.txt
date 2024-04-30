@@ -1,8 +1,8 @@
-numpy
+numpy==1.26.4
 pandas
 seaborn
 matplotlib
-joblib
-streamlit
+joblib==1.4.0
+streamlit==1.20.0
 altair
 scikit-learn==1.4.2
